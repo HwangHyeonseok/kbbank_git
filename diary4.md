@@ -11,7 +11,7 @@
 
   전체 코드 작성 시간이 3분이 안 될 정도로 빠르게, </br>
   커밋 시간 간격이 1분일 정도로 검토 없이 슝슝 만들어서 </br>
-    ![image](https://github.com/devCharlotte/kbbank_git/assets/98799034/07dfeda9-0634-4e82-b22a-ffcb934c31ed)
+    ![image](https://github.com/devCharlotte/kbbank_git/assets/98799034/07dfeda9-0634-4e82-b22a-ffcb934c31ed) </br>
   페이지라고 하기도 부끄러울 만큼 스킬풀한 요소가 하나도 없지만..!!  </br>
 
   그냥.. 해봤다아..~
